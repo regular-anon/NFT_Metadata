@@ -1,0 +1,20 @@
+{
+  "description": "Shrek", 
+  "external_url": "https://github.com/regular-anon/NFT_Metadata", 
+  "image": "https://regular-anon.github.io/NFT_Metadata/shrek.jfif", 
+  "name": "Shrek",
+  "attributes": [
+  	{
+      "trait_type": "Eyes", 
+      "value": "Shrek"
+    },
+    {
+      "trait_type": "Ears", 
+      "value": "Shrek"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Shrek"
+    }
+  ] 
+}
